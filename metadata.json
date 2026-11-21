@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Residency — Honnavar Stay & Coastal Dining",
+  "description": "Official booking platform and reservation management console for Mahadev Residency in Honnavar, Karnataka. Featuring 49 rooms (14 Single and 35 Double Bed rooms with attached bathroom and toilet), live availability calendar, coastal dining, UPI QR payments, and automatic email confirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
